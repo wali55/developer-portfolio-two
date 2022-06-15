@@ -26,6 +26,19 @@ h1 {
     width: 50%;
     padding-left: 3%;
 }
-.half-width img{
+.header-img{
     width: 70%;
+}
+.dream-section{
+    display: flex;
+    margin-bottom: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-img{
+    width: 100%;
+}
+.dream-content{
+    padding-right: 6%;
 }
